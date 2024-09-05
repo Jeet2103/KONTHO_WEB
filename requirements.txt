@@ -1,0 +1,9 @@
+langchain
+langchain_openai
+joblib
+xgboost
+flask
+numpy
+pandas
+openai
+dotenv
